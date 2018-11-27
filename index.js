@@ -1,4 +1,4 @@
-var a, b, n 
+var a, b, n
 function add(a, b) {
   return a += b
 }
